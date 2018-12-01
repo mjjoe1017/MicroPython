@@ -8,3 +8,14 @@ for i in range(3):
   time.sleep(1)
   p2.value(1)
   time.sleep(1)
+
+
+
+# for loop
+from machine import 
+for i in range(3)
+  p2.value(0)
+  time.sleep(0.5)
+  p2.value(1)
+  time.sleep(0.5)
+  
