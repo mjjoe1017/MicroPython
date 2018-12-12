@@ -1,4 +1,4 @@
-# MicroPython
+# MicroPython Example
 use ESP8266 training MicroPython
 
 LED 模組
@@ -29,3 +29,16 @@ LED 模組
   >p2.value(1)
   
   >time.sleep(1)
+  
+  
+  
+  #自訂程式庫
+  
+  import MINI
+  
+  MINI.hello()
+  
+  
+  MINI.py
+  def hello():
+    print("hello")
